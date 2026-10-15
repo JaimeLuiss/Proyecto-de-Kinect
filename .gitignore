@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+hand_landmarker.task
+.DS_Store
